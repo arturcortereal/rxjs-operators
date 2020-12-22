@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "rxjs-operators"
+  "defaultProject": "rxjs-operators",
+  "cli": {
+    "analytics": false
+  }
 }
